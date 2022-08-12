@@ -1,0 +1,12 @@
+main {
+  height: 100vh;
+}
+header {
+  height: 10%;
+}
+header nav {
+  background-color: #f190b7;
+}
+header nav .nav-link {
+  color: #fbd6d2;
+}
